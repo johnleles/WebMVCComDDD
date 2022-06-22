@@ -1,0 +1,12 @@
+C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD.Application\bin\Debug\net6.0\WebMVCComDDD.Application.deps.json
+C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD.Application\bin\Debug\net6.0\WebMVCComDDD.Application.dll
+C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD.Application\bin\Debug\net6.0\WebMVCComDDD.Application.pdb
+C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD.Application\obj\Debug\net6.0\WebMVCComDDD.Application.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD.Application\obj\Debug\net6.0\WebMVCComDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD.Application\obj\Debug\net6.0\WebMVCComDDD.Application.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD.Application\obj\Debug\net6.0\WebMVCComDDD.Application.AssemblyInfo.cs
+C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD.Application\obj\Debug\net6.0\WebMVCComDDD.Application.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD.Application\obj\Debug\net6.0\WebMVCComDDD.Application.dll
+C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD.Application\obj\Debug\net6.0\refint\WebMVCComDDD.Application.dll
+C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD.Application\obj\Debug\net6.0\WebMVCComDDD.Application.pdb
+C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD.Application\obj\Debug\net6.0\ref\WebMVCComDDD.Application.dll
