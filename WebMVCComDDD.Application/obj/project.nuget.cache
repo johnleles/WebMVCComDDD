@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ZMG6PG1TMpVv6E0eEJgBY0oWIxsdyiE6MsU2uglMGQsA4AR7ztiYlrF8r41YHcFG4Mj1OAtjXVFw1OzO4JmztA==",
+  "dgSpecHash": "tkv4T5YrWuNaUtlYeMm02jIZmY1g4sbJUNINPm36dfxxmtGZ3TCNZ87yQa6ptZPBtfOO03UoPUDTtRL5x/k3mQ==",
   "success": true,
   "projectFilePath": "C:\\temp\\ws-vs2019\\WebMVCComDDD\\WebMVCComDDD.Application\\WebMVCComDDD.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\johnl\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\johnl\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\johnl\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

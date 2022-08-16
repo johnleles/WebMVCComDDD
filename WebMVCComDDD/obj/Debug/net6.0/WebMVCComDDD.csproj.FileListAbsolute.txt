@@ -270,3 +270,5 @@ C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD\bin\Debug\net6.0\runtimes\unix\lib\n
 C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD\bin\Debug\net6.0\WebMVCComDDD.Application.dll
+C:\temp\ws-vs2019\WebMVCComDDD\WebMVCComDDD\bin\Debug\net6.0\WebMVCComDDD.Application.pdb
